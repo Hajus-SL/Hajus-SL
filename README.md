@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and HTML
 - 📫 Do not reach out to me, unless I work with you already
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I know ASL
+- ⚡ Fun fact: I know ASL and like playing the guitar
 
 <!---
 Hajus-SL/Hajus-SL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
